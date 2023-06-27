@@ -1,1 +1,1 @@
-# Example of a online pizza ordering website
+# Fast React Pizza Co
