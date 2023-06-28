@@ -1,4 +1,4 @@
-Fast React Pizza Co - Online Pizza Ordering App
+##Fast React Pizza Co - Online Pizza Ordering App
 
 Project was built from the Jonas Schedtmann's Udemy Course "The Ultimate React Course 2023: React, Redux & More"
 
