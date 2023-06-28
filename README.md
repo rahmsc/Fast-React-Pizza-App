@@ -4,8 +4,8 @@ Project was built from the Jonas Schedtmann's Udemy Course "The Ultimate React C
 
 In this project, I learnt to utilize:
 
--React Router
--Redux
--Tailwind CSS
+-React Router <br />
+-Redux <br />
+-Tailwind CSS <br />
 
 You can visit the website live here :- https://fastreactpizzademo.netlify.app/
